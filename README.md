@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para utilizar como cartão de visitas online.
 
+Link de visualização do projeto: https://czr125.github.io/projectDiscover/
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/FY4iIbM8jA1eNVVFhFnZlO/DevLinks-•-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=d4mDB2Sg3NTVwbQa-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
