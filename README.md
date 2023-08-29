@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Made by @czr_mutran ⚡:wave: 
+Made by ⚡ @czr_mutran :wave: 
